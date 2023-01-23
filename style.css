@@ -64,12 +64,10 @@ ul {
 }
 
 .header-info {
+    background-color: var(--clr-dark);
+    color:var(--clr-nuetral);
     display:flex;
     flex-wrap: wrap;
-}
-.header-info > p {
-    color:var(--clr-nuetral);
-    
 }
 
 .header-info-left {
@@ -87,7 +85,7 @@ ul {
 
 .title {
     font-size: 48px;
-    color: var(--clr-medium);
+    color: var(--clr-light);
 }
 
 button {
@@ -106,13 +104,12 @@ button {
   
 }
 
-.main {
-    background-color: var(--clr-light);
+.main  {   
     display:flex;
     flex-direction: column;
 }
 
-.middle {
+.quote {
     background-color: var(--clr-nuetral);
     font-weight: var(--fw-light);
     font-style: italic;
@@ -121,11 +118,11 @@ button {
     padding:200px;
 }
 
-.middle p:nth-child(1) {
+.quote p:nth-child(1) {
     text-align: left;
 }
 
-.middle p:nth-child(2) {
+.quote p:nth-child(2) {
     text-align: right;
 }
 
