@@ -1,0 +1,16 @@
+:root {
+    /* COLORS */
+    --clr-dark: #1F2937;
+    --clr-medium:#3882F6;
+    --clr-nuetral-200: #E5E7EB;
+    --clr-light: #F9FAF8;
+
+    /*TYPOGRAPHY*/
+   --ff-primary: 'Roboto', sans-serif;
+
+   --fw-light:300;
+   --fw-regular:400;
+   --fw-bold:900;
+
+}   
+
