@@ -19,6 +19,17 @@
    --fs-300:48px;
 
 }  
+@media screen and (max-width:700px) {
+    .action-call-accent {
+        padding:2rem;
+        margin-top:4rem;
+        margin-bottom: 4rem;
+        border-radius:8px;
+        display: flex;
+        flex-direction:column;
+        gap:1rem;
+        }
+}
 
 *,
 ::after,
