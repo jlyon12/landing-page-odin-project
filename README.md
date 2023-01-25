@@ -1,5 +1,5 @@
 # landing-page-odin-project
-Odin Project Landing Page 
+Odin Project Landing Page Project
 
 
 Image attribution credits :

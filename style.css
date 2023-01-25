@@ -35,7 +35,6 @@ body {
     font-size:var(--fs-100);
 }
 
-
 .header-info , 
 .content-info,
 .quote,
@@ -96,9 +95,9 @@ body {
     display: flex;
     justify-content:center;
 }
+
 .title {
     max-width: 500px;
-    
 }
 
 .header-description {
@@ -118,16 +117,13 @@ body {
 .brew-button:hover {
     background-color: var(--clr-light);
     color: var(--clr-dark);
-    
 }
-
 
 .header-info-image {
    width:250px;
    height:100%;
    flex: 0 1 auto;
 }
-
 
 .content-info {
     text-align: center;
@@ -157,17 +153,11 @@ body {
 .info-image {
     height:100%;
     width:150px;
-    
 }
 
 .quote {
     padding-top:6rem;
     padding-bottom: 6rem;
-    
-}
-
-.quote p:nth-child(1) {
-    font-style: italic;
 }
 
 .quote p:nth-child(2) {
@@ -188,14 +178,12 @@ gap:1rem;
     margin-bottom: .5rem;
 }
 
-
 .action-call-accent-left {
     display:flex;
     flex-wrap: wrap;
     flex-basis:50%;
     justify-content: flex-start;
 }
-
 
 .action-call-accent-right {
     display:flex;
@@ -210,7 +198,6 @@ gap:1rem;
     border-radius: 8px;
     padding:.5rem 1.5rem;
     max-width: fit-content;
-
 }
 
 .brew-button-alt:hover {
@@ -229,6 +216,7 @@ gap:1rem;
 .footer-link {
     text-decoration: none; 
 }
+
 .footer-link:hover {
     color:var(--clr-accent);
 }
@@ -238,40 +226,31 @@ gap:1rem;
 .clr-dark {
     color:var(--clr-dark)
 }
-
 .clr-accent {
     color:var(--clr-accent);
 }
-
 .clr-accent-2 {
     color:var(--clr-accent-2);
 }
-
 .clr-light {
     color:var(--clr-light)
 }
-
 .bg-clr-dark {
     background-color:var(--clr-dark)
 }
-
 .bg-clr-accent {
     background-color:var(--clr-accent);
 }
-
 .bg-clr-light {
     background-color:var(--clr-light)
 }
-
 .fw-bold {
     font-weight: var(--fw-bold);
 }
-
 .fw-light {
     font-weight: var(--fw-light);
     font-style: italic;
 }
-
 .fs-125 {
     font-size:var(--fs-125);
 }
