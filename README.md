@@ -1,6 +1,8 @@
 # landing-page-odin-project
 Odin Project Landing Page Project
 
+LIVE LINK : https://probableactions.github.io/landing-page-odin-project/
+
 
 Image attribution credits :
     <a href="https://www.flaticon.com/free-icons/coffee" title="coffee icons">Coffee icons created by Smashicons - Flaticon</a>
